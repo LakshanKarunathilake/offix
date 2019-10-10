@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "Appllo GraphQL extension",
     "docs": {
       "_sidebar": {
         "title": "_sidebar"
@@ -53,7 +53,7 @@
       }
     },
     "links": {
-      "Docs": "Docs",
+      "Documentation": "Documentation",
       "API": "API",
       "Help": "Help",
       "Blog": "Blog"

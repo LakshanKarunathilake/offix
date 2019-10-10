@@ -22,7 +22,8 @@ const users = [
 
 const siteConfig = {
   title: 'OFFIX', // Title for your website.
-  tagline: 'Appllo GraphQL extension',
+  tagline:
+    'Offix extends the capabilities of Apollo GraphQL providing a fully featured Offline Workflow and Conflict Resolution.',
   url: 'https://offix.dev', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,8 +39,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: 'doc1', label: 'Documentation' },
-    { doc: 'doc4', label: 'API' },
+    { doc: 'gettingStarted', label: 'Documentation' },
+    { doc: 'offlineClient', label: 'Offline Client' },
     { page: 'help', label: 'Help' },
     { blog: true, label: 'Blog' }
   ],
@@ -48,13 +49,13 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/logo.png',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/offix-logo.png',
+  footerIcon: 'img/offix-logo.png',
+  favicon: 'img/offix-logo.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#f47229',
+    primaryColor: '#f9a338',
     secondaryColor: '#5bae49'
   },
 

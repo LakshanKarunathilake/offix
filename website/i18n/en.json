@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "Appllo GraphQL extension",
+    "tagline": "Offix extends the capabilities of Apollo GraphQL providing a fully featured Offline Workflow and Conflict Resolution.",
     "docs": {
       "_sidebar": {
         "title": "_sidebar"
@@ -26,6 +26,14 @@
       },
       "getting-started": {
         "title": "getting-started"
+      },
+      "gettingStarted": {
+        "title": "Getting Started",
+        "sidebar_label": "Getting Started"
+      },
+      "offlineClient": {
+        "title": "Offline Client",
+        "sidebar_label": "Offline Client"
       },
       "README": {
         "title": "README"
@@ -54,14 +62,12 @@
     },
     "links": {
       "Documentation": "Documentation",
-      "API": "API",
+      "Offline Client": "Offline Client",
       "Help": "Help",
       "Blog": "Blog"
     },
     "categories": {
-      "Docusaurus": "Docusaurus",
-      "First Category": "First Category",
-      "Second Category": "Second Category"
+      "Getting Started": "Getting Started"
     }
   },
   "pages-strings": {

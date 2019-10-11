@@ -1,5 +1,12 @@
 {
   "docs": {
-    "Getting Started": ["gettingStarted", "offlineClient"]
+    "Getting Started": [
+      "gettingStarted",
+      "offlineClient",
+      "offixCache",
+      "conflictClient",
+      "conflictServer",
+      "releaseNotes"
+    ]
   }
 }

@@ -8,6 +8,14 @@
       "_sidebar": {
         "title": "_sidebar"
       },
+      "conflictClient": {
+        "title": "Client Side Conflict Resolution",
+        "sidebar_label": "Conflicts Client"
+      },
+      "conflictServer": {
+        "title": "Server Side Conflict Resolution",
+        "sidebar_label": "Conflict Server"
+      },
       "doc1": {
         "title": "Latin-ish",
         "sidebar_label": "Example Page"
@@ -30,6 +38,10 @@
       "gettingStarted": {
         "title": "Getting Started",
         "sidebar_label": "Getting Started"
+      },
+      "offixCache": {
+        "title": "Offix Cache",
+        "sidebar_label": "Client Cache"
       },
       "offlineClient": {
         "title": "Offline Client",
@@ -58,12 +70,18 @@
       },
       "ref-support": {
         "title": "ref-support"
+      },
+      "releaseNotes": {
+        "title": "What is new in Offix",
+        "sidebar_label": "Release notes"
+      },
+      "support": {
+        "title": "Support",
+        "sidebar_label": "Support"
       }
     },
     "links": {
       "Documentation": "Documentation",
-      "Offline Client": "Offline Client",
-      "Help": "Help",
       "Blog": "Blog"
     },
     "categories": {

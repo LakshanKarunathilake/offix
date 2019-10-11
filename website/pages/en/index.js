@@ -98,8 +98,17 @@ class Index extends React.Component {
         className="productShowcaseSection paddingBottom"
         style={{ textAlign: 'center' }}
       >
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>Introduction</h2>
+        <div>
+          Offix enables working with localy cached GraphQL compilant data
+          without access to server. It will leverage Apollo GraphQL cache do
+          deliver seamless experience for querying data even when server side
+          data is not reachable. For more information about the Apollo and
+          GraphQL please go to{' '}
+          <a href="https://www.apollographql.com/">
+            https://www.apollographql.com/
+          </a>
+        </div>
       </div>
     );
 

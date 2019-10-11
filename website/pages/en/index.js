@@ -175,6 +175,25 @@ class Index extends React.Component {
       </Block>
     );
 
+    const Intro = () => {
+      return (
+        <React.Fragment>
+          <h2 style={{ color: '#f9a338', textAlign: 'center' }}>
+            Offix in Action
+          </h2>
+
+          <div class="intro">
+            <iframe
+              class="introVideo"
+              src="https://www.youtube.com/embed/CrYinCtTHds"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </React.Fragment>
+      );
+    };
+
     const Showcase = () => {
       if ((siteConfig.users || []).length === 0) {
         return null;
